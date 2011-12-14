@@ -5,6 +5,9 @@
 // @include		http://codex.wordpress.org/*
 // ==/UserScript==
 
+// Changes this: http://i.imgur.com/a1uct.png
+// Into this:    http://i.imgur.com/OLAQQ.png
+
 /*global document*/
 
 document.title = document.title
